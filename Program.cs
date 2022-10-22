@@ -7,7 +7,7 @@ namespace Employee_num1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Employee Wage Computation");
+        EmpWage.EmployeeWage();
            
 }
 
